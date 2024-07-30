@@ -1,0 +1,3024 @@
+./image_analysis/Lectin 2nd control-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    total intensity: [595268, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    total intensity: [0, 898128, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    total intensity: [390044, 392342, 0]
+    total intensity %: [49.85, 50.15, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+./image_analysis/Lectin 2nd control.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 19.0
+    intensity (mean): 0.53
+    total intensity: [559629, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 27.4%
+    color pixel: 287338
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 15.0
+    intensity (mean): 0.73
+    total intensity: [0, 769919, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 40.05%
+    color pixel: 419984
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 16.0
+    intensity (mean): 0.34
+    total intensity: [367155, 356351, 0]
+    total intensity %: [50.75, 49.25, 0.0]
+    color percent: 17.25%
+    color pixel: 180923
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    total intensity: [53676981, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    total intensity: [0, 18766415, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    total intensity: [44854334, 18674726, 0]
+    total intensity %: [70.6, 29.4, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.71
+    total intensity: [37448462, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 75.37%
+    color pixel: 790301
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.7
+    total intensity: [0, 25900315, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 59.81%
+    color pixel: 627164
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.23
+    total intensity: [31566593, 25541960, 0]
+    total intensity %: [55.27, 44.73, 0.0]
+    color percent: 53.14%
+    color pixel: 557241
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 6.06
+    total intensity: [6354536, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 20.2%
+    color pixel: 211792
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 232.0
+    intensity (mean): 3.8
+    total intensity: [0, 3983528, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 18.19%
+    color pixel: 190754
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 243.5
+    intensity (mean): 4.7
+    total intensity: [5937058, 3924767, 0]
+    total intensity %: [60.2, 39.8, 0.0]
+    color percent: 16.69%
+    color pixel: 174996
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.77
+    total intensity: [25971427, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 95.26%
+    color pixel: 998889
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 15.54
+    total intensity: [0, 16296466, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 93.7%
+    color pixel: 982467
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 248.5
+    intensity (mean): 19.57
+    total intensity: [25151413, 15879936, 0]
+    total intensity %: [61.3, 38.7, 0.0]
+    color percent: 89.37%
+    color pixel: 937124
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 26.33
+    total intensity: [27608867, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 94.39%
+    color pixel: 989786
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 16.14
+    total intensity: [0, 16924490, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 90.53%
+    color pixel: 949278
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 20.35
+    total intensity: [26351575, 16331741, 0]
+    total intensity %: [61.74, 38.26, 0.0]
+    color percent: 85.35%
+    color pixel: 894971
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Small intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 55.36
+    total intensity: [58047484, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 99.4%
+    color pixel: 1042239
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 54.79
+    total intensity: [0, 57456343, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 70.35%
+    color pixel: 737625
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 51.14
+    total intensity: [49807570, 57448165, 0]
+    total intensity %: [46.44, 53.56, 0.0]
+    color percent: 70.08%
+    color pixel: 734837
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Small intestine-villus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 28.05
+    total intensity: [29414871, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 87.11%
+    color pixel: 913390
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 22.23
+    total intensity: [0, 23314274, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 54.33%
+    color pixel: 569724
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 22.0
+    total intensity: [22954260, 23177606, 0]
+    total intensity %: [49.76, 50.24, 0.0]
+    color percent: 50.63%
+    color pixel: 530900
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Trachea-epithelium.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 20.88
+    total intensity: [21891568, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 80.98%
+    color pixel: 849147
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 245.0
+    intensity (mean): 13.34
+    total intensity: [0, 13992882, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 83.17%
+    color pixel: 872128
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 250.0
+    intensity (mean): 16.78
+    total intensity: [21727457, 13459263, 0]
+    total intensity %: [61.75, 38.25, 0.0]
+    color percent: 78.56%
+    color pixel: 823812
+    total pixel: 1048576
+
+./image_analysis/MAL1 MAL2 Trachea-gland.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 39.09
+    total intensity: [40992610, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 97.45%
+    color pixel: 1021822
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 34.93
+    total intensity: [0, 36627356, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 92.85%
+    color pixel: 973552
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 246.5
+    intensity (mean): 36.64
+    total intensity: [40376818, 36468402, 0]
+    total intensity %: [52.54, 47.46, 0.0]
+    color percent: 91.13%
+    color pixel: 955535
+    total pixel: 1048576
+
+./image_analysis/Neu5Gc large intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 84.0
+    intensity (mean): 1.24
+    total intensity: [1411475, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.67%
+    color pixel: 406862
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 252.0
+    intensity (mean): 7.74
+    total intensity: [0, 8822769, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 72.11%
+    color pixel: 822530
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 147.0
+    intensity (mean): 2.69
+    total intensity: [1315329, 4830274, 0]
+    total intensity %: [21.4, 78.6, 0.0]
+    color percent: 31.34%
+    color pixel: 357467
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 72.0
+    intensity (mean): 1.37
+    total intensity: [1566596, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.29%
+    color pixel: 402472
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 12.37
+    total intensity: [0, 14109801, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 80.56%
+    color pixel: 918900
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 143.0
+    intensity (mean): 3.88
+    total intensity: [1530939, 7328915, 0]
+    total intensity %: [17.28, 82.72, 0.0]
+    color percent: 33.64%
+    color pixel: 383675
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 69.0
+    intensity (mean): 0.26
+    total intensity: [296268, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 6.24%
+    color pixel: 71208
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 246.0
+    intensity (mean): 2.5
+    total intensity: [0, 2849421, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 11.97%
+    color pixel: 136494
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 144.0
+    intensity (mean): 0.8
+    total intensity: [269909, 1545487, 0]
+    total intensity %: [14.87, 85.13, 0.0]
+    color percent: 5.12%
+    color pixel: 58383
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 81.0
+    intensity (mean): 0.48
+    total intensity: [546536, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 16.56%
+    color pixel: 188899
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 2.48
+    total intensity: [0, 2827837, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 27.38%
+    color pixel: 312312
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 155.0
+    intensity (mean): 0.88
+    total intensity: [448297, 1555502, 0]
+    total intensity %: [22.37, 77.63, 0.0]
+    color percent: 12.66%
+    color pixel: 144456
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 64.0
+    intensity (mean): 1.84
+    total intensity: [2095670, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 43.45%
+    color pixel: 495616
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 207.0
+    intensity (mean): 18.58
+    total intensity: [0, 21189592, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 96.37%
+    color pixel: 1099186
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 127.5
+    intensity (mean): 5.85
+    total intensity: [2077211, 11274659, 0]
+    total intensity %: [15.56, 84.44, 0.0]
+    color percent: 42.65%
+    color pixel: 486464
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc small intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 70.0
+    intensity (mean): 1.69
+    total intensity: [1932311, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 39.89%
+    color pixel: 455031
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 18.33
+    total intensity: [0, 20906137, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 83.19%
+    color pixel: 948834
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 143.5
+    intensity (mean): 5.57
+    total intensity: [1851657, 10864332, 0]
+    total intensity %: [14.56, 85.44, 0.0]
+    color percent: 36.23%
+    color pixel: 413274
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc small intestine-villus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 82.0
+    intensity (mean): 1.37
+    total intensity: [1566923, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.91%
+    color pixel: 409571
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 254.0
+    intensity (mean): 17.62
+    total intensity: [0, 20093066, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 80.61%
+    color pixel: 919488
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 145.5
+    intensity (mean): 5.07
+    total intensity: [1547125, 10025756, 0]
+    total intensity %: [13.37, 86.63, 0.0]
+    color percent: 34.97%
+    color pixel: 398824
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc trachea-epithelium.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 80.0
+    intensity (mean): 1.75
+    total intensity: [1992903, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 40.76%
+    color pixel: 464962
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 246.0
+    intensity (mean): 12.99
+    total intensity: [0, 14814145, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 79.66%
+    color pixel: 908657
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 152.0
+    intensity (mean): 4.38
+    total intensity: [1827191, 8161685, 0]
+    total intensity %: [18.29, 81.71, 0.0]
+    color percent: 34.8%
+    color pixel: 396910
+    total pixel: 1140624
+
+./image_analysis/Neu5Gc trachea-gland.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 68.0
+    intensity (mean): 1.41
+    total intensity: [1604859, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 41.63%
+    color pixel: 474849
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 244.0
+    intensity (mean): 17.48
+    total intensity: [0, 19943377, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 94.16%
+    color pixel: 1074031
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 133.0
+    intensity (mean): 5.03
+    total intensity: [1583462, 9882674, 0]
+    total intensity %: [13.81, 86.19, 0.0]
+    color percent: 40.7%
+    color pixel: 464251
+    total pixel: 1140624
+
+./image_analysis/SAN MAL2 Trachea-epithelium.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.99
+    total intensity: [37741658, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 90.15%
+    color pixel: 945307
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 34.27
+    total intensity: [0, 35936591, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 90.21%
+    color pixel: 945940
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 34.71
+    total intensity: [37482382, 35318311, 0]
+    total intensity %: [51.49, 48.51, 0.0]
+    color percent: 87.31%
+    color pixel: 915476
+    total pixel: 1048576
+
+./image_analysis/SAN MAL2 Trachea-gland.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 55.11
+    total intensity: [57789035, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 96.09%
+    color pixel: 1007579
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 57.14
+    total intensity: [0, 59916016, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 98.09%
+    color pixel: 1028511
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 55.78
+    total intensity: [57716263, 59272471, 0]
+    total intensity %: [49.33, 50.67, 0.0]
+    color percent: 95.36%
+    color pixel: 999966
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Large intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.33
+    total intensity: [28658322, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 76.08%
+    color pixel: 797783
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 16.17
+    total intensity: [0, 16956474, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 64.29%
+    color pixel: 674097
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 234.5
+    intensity (mean): 19.01
+    total intensity: [23630886, 16243870, 0]
+    total intensity %: [59.26, 40.74, 0.0]
+    color percent: 56.7%
+    color pixel: 594538
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 33.13
+    total intensity: [34736854, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 89.52%
+    color pixel: 938640
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 241.0
+    intensity (mean): 23.4
+    total intensity: [0, 24532071, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 85.99%
+    color pixel: 901721
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 203.0
+    intensity (mean): 27.23
+    total intensity: [33315148, 23798245, 0]
+    total intensity %: [58.33, 41.67, 0.0]
+    color percent: 81.02%
+    color pixel: 849573
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 7.8
+    total intensity: [8179705, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 27.2%
+    color pixel: 285211
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 7.42
+    total intensity: [0, 7779263, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 24.24%
+    color pixel: 254186
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 7.17
+    total intensity: [7530918, 7510086, 0]
+    total intensity %: [50.07, 49.93, 0.0]
+    color percent: 21.85%
+    color pixel: 229120
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 15.43
+    total intensity: [16174615, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 65.4%
+    color pixel: 685717
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 20.63
+    total intensity: [0, 21635195, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 92.8%
+    color pixel: 973040
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 228.0
+    intensity (mean): 14.99
+    total intensity: [15365056, 16065811, 0]
+    total intensity %: [48.89, 51.11, 0.0]
+    color percent: 60.81%
+    color pixel: 637673
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 18.63
+    total intensity: [19533929, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 89.19%
+    color pixel: 935270
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 19.24
+    total intensity: [0, 20173738, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.41%
+    color pixel: 1042344
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 196.0
+    intensity (mean): 17.96
+    total intensity: [19193581, 18471271, 0]
+    total intensity %: [50.96, 49.04, 0.0]
+    color percent: 88.67%
+    color pixel: 929729
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Small intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.78
+    total intensity: [29124902, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 76.56%
+    color pixel: 802753
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 38.65
+    total intensity: [0, 40527305, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 94.32%
+    color pixel: 988988
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 230.5
+    intensity (mean): 31.07
+    total intensity: [28652038, 36503726, 0]
+    total intensity %: [43.97, 56.03, 0.0]
+    color percent: 73.85%
+    color pixel: 774341
+    total pixel: 1048576
+
+./image_analysis/SNA MAL2 Small intestine-villus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 21.91
+    total intensity: [22979038, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 79.63%
+    color pixel: 834935
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 58.37
+    total intensity: [0, 61209714, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 90.85%
+    color pixel: 952596
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 228.5
+    intensity (mean): 35.86
+    total intensity: [22465459, 52743623, 0]
+    total intensity %: [29.87, 70.13, 0.0]
+    color percent: 77.51%
+    color pixel: 812701
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-1_ch00_SV.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 20.0
+    intensity (mean): 0.72
+    total intensity: [754414, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.17%
+    color pixel: 368808
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 16.0
+    intensity (mean): 0.53
+    total intensity: [0, 550558, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 27.35%
+    color pixel: 286817
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 18.0
+    intensity (mean): 0.28
+    total intensity: [329023, 259038, 0]
+    total intensity %: [55.95, 44.05, 0.0]
+    color percent: 11.41%
+    color pixel: 119597
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-1_ch01_SV.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 81.0
+    intensity (mean): 1.69
+    total intensity: [1769080, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 37.36%
+    color pixel: 391780
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 34.82
+    total intensity: [0, 36512984, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 85.85%
+    color pixel: 900234
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 151.5
+    intensity (mean): 9.1
+    total intensity: [1741863, 17338183, 0]
+    total intensity %: [9.13, 90.87, 0.0]
+    color percent: 36.31%
+    color pixel: 380757
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-1_ch02_SV.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.6
+    total intensity: [37330827, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 91.6%
+    color pixel: 960500
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 45.0
+    intensity (mean): 1.03
+    total intensity: [0, 1084099, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 37.74%
+    color pixel: 395710
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 134.5
+    intensity (mean): 8.6
+    total intensity: [16981760, 1054545, 0]
+    total intensity %: [94.15, 5.85, 0.0]
+    color percent: 36.6%
+    color pixel: 383727
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-1_overlay.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.99
+    total intensity: [37741658, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 90.15%
+    color pixel: 945307
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 34.27
+    total intensity: [0, 35936591, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 90.21%
+    color pixel: 945940
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 34.71
+    total intensity: [37482382, 35318311, 0]
+    total intensity %: [51.49, 48.51, 0.0]
+    color percent: 87.31%
+    color pixel: 915476
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-2_ch00_SV.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 20.0
+    intensity (mean): 0.57
+    total intensity: [593663, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 30.54%
+    color pixel: 320265
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 16.0
+    intensity (mean): 0.4
+    total intensity: [0, 420171, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 21.54%
+    color pixel: 225869
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.19
+    total intensity: [227489, 176203, 0]
+    total intensity %: [56.35, 43.65, 0.0]
+    color percent: 7.79%
+    color pixel: 81734
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-2_ch01_SV.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 85.0
+    intensity (mean): 2.67
+    total intensity: [2803301, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 43.1%
+    color pixel: 451966
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 57.18
+    total intensity: [0, 59958718, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 98.12%
+    color pixel: 1028882
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 154.0
+    intensity (mean): 15.77
+    total intensity: [2783417, 30296664, 0]
+    total intensity %: [8.41, 91.59, 0.0]
+    color percent: 42.61%
+    color pixel: 446757
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-2_ch02_SV.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 54.72
+    total intensity: [57376312, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 97.01%
+    color pixel: 1017233
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 36.0
+    intensity (mean): 1.26
+    total intensity: [0, 1318020, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 42.16%
+    color pixel: 442081
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 132.5
+    intensity (mean): 13.49
+    total intensity: [27012023, 1282765, 0]
+    total intensity %: [95.47, 4.53, 0.0]
+    color percent: 40.83%
+    color pixel: 428108
+    total pixel: 1048576
+
+./image_analysis/One_channel/Lectin_SAN MAL2 Trachea-2_overlay.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 55.11
+    total intensity: [57789035, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 96.09%
+    color pixel: 1007579
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 57.14
+    total intensity: [0, 59916016, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 98.09%
+    color pixel: 1028511
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 55.78
+    total intensity: [57716263, 59272471, 0]
+    total intensity %: [49.33, 50.67, 0.0]
+    color percent: 95.36%
+    color pixel: 999966
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/2nd control sialidase.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 56.0
+    intensity (mean): 3.78
+    total intensity: [3962478, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 89.09%
+    color pixel: 934200
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 35.0
+    intensity (mean): 2.06
+    total intensity: [0, 2160720, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 78.93%
+    color pixel: 827632
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 45.5
+    intensity (mean): 2.63
+    total intensity: [3482577, 2031334, 0]
+    total intensity %: [63.16, 36.84, 0.0]
+    color percent: 72.76%
+    color pixel: 762909
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/2nd control.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 63.0
+    intensity (mean): 2.61
+    total intensity: [2736807, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 88.18%
+    color pixel: 924596
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 26.0
+    intensity (mean): 0.64
+    total intensity: [0, 675862, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 39.55%
+    color pixel: 414662
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 44.5
+    intensity (mean): 0.9
+    total intensity: [1296202, 600837, 0]
+    total intensity %: [68.33, 31.67, 0.0]
+    color percent: 35.5%
+    color pixel: 372261
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Blank.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 23.0
+    intensity (mean): 3.21
+    total intensity: [3370726, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 87.78%
+    color pixel: 920408
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 14.0
+    intensity (mean): 0.61
+    total intensity: [0, 643842, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 41.3%
+    color pixel: 433054
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 18.0
+    intensity (mean): 1.03
+    total intensity: [1559148, 603348, 0]
+    total intensity %: [72.1, 27.9, 0.0]
+    color percent: 38.92%
+    color pixel: 408115
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL1 H5 Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 205.0
+    intensity (mean): 2.72
+    total intensity: [2851025, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 47.36%
+    color pixel: 496601
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 29.66
+    total intensity: [0, 31097048, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 72.83%
+    color pixel: 763673
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 169.0
+    intensity (mean): 9.4
+    total intensity: [2399275, 17313650, 0]
+    total intensity %: [12.17, 87.83, 0.0]
+    color percent: 39.36%
+    color pixel: 412735
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL1 H5 Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 4.21
+    total intensity: [4417239, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 28.43%
+    color pixel: 298150
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 10.48
+    total intensity: [0, 10986505, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 30.76%
+    color pixel: 322589
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 244.0
+    intensity (mean): 6.92
+    total intensity: [4351441, 10169151, 0]
+    total intensity %: [29.97, 70.03, 0.0]
+    color percent: 26.82%
+    color pixel: 281239
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL1 H5 Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 10.15
+    total intensity: [10638115, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 91.76%
+    color pixel: 962142
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.33
+    total intensity: [0, 25511007, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 96.67%
+    color pixel: 1013616
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 229.5
+    intensity (mean): 15.85
+    total intensity: [10407030, 22836246, 0]
+    total intensity %: [31.31, 68.69, 0.0]
+    color percent: 88.76%
+    color pixel: 930763
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL1 H5 Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 228.0
+    intensity (mean): 8.61
+    total intensity: [9025748, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 82.07%
+    color pixel: 860565
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 20.67
+    total intensity: [0, 21678988, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 90.16%
+    color pixel: 945406
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 241.5
+    intensity (mean): 13.39
+    total intensity: [8899789, 19180027, 0]
+    total intensity %: [31.69, 68.31, 0.0]
+    color percent: 80.32%
+    color pixel: 842193
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL1 H5 Small intestine-villus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 233.0
+    intensity (mean): 2.19
+    total intensity: [2293600, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 48.74%
+    color pixel: 511064
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 14.11
+    total intensity: [0, 14791061, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 73.97%
+    color pixel: 775604
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 207.0
+    intensity (mean): 4.89
+    total intensity: [1870803, 8383187, 0]
+    total intensity %: [18.24, 81.76, 0.0]
+    color percent: 38.02%
+    color pixel: 398659
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL1 H5 Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 7.65
+    total intensity: [8025633, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 74.7%
+    color pixel: 783248
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 14.82
+    total intensity: [0, 15542076, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 90.7%
+    color pixel: 951044
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 179.5
+    intensity (mean): 10.21
+    total intensity: [7989594, 13421164, 0]
+    total intensity %: [37.32, 62.68, 0.0]
+    color percent: 74.32%
+    color pixel: 779324
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL2 H5 Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 26.41
+    total intensity: [27692156, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 80.84%
+    color pixel: 847704
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 227.0
+    intensity (mean): 1.47
+    total intensity: [0, 1540759, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 38.12%
+    color pixel: 399763
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 228.5
+    intensity (mean): 6.89
+    total intensity: [13001075, 1444384, 0]
+    total intensity %: [90.0, 10.0, 0.0]
+    color percent: 34.54%
+    color pixel: 362171
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL2 H5 Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 16.2
+    total intensity: [16990114, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 58.68%
+    color pixel: 615332
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 3.68
+    total intensity: [0, 3856993, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 44.39%
+    color pixel: 465475
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 225.0
+    intensity (mean): 8.64
+    total intensity: [14330949, 3792164, 0]
+    total intensity %: [79.08, 20.92, 0.0]
+    color percent: 41.86%
+    color pixel: 438887
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL2 H5 Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 18.92
+    total intensity: [19834789, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 78.8%
+    color pixel: 826229
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 243.0
+    intensity (mean): 5.28
+    total intensity: [0, 5541515, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 56.01%
+    color pixel: 587292
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 236.5
+    intensity (mean): 10.57
+    total intensity: [16845011, 5314699, 0]
+    total intensity %: [76.02, 23.98, 0.0]
+    color percent: 51.25%
+    color pixel: 537412
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL2 H5 Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 25.03
+    total intensity: [26247750, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 72.71%
+    color pixel: 762384
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 246.0
+    intensity (mean): 5.9
+    total intensity: [0, 6186430, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 61.38%
+    color pixel: 643631
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 246.0
+    intensity (mean): 13.95
+    total intensity: [23162122, 6085443, 0]
+    total intensity %: [79.19, 20.81, 0.0]
+    color percent: 58.81%
+    color pixel: 616688
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL2 H5 Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.45
+    total intensity: [25634320, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 84.7%
+    color pixel: 888126
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 232.0
+    intensity (mean): 3.72
+    total intensity: [0, 3899539, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 75.53%
+    color pixel: 791995
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 216.0
+    intensity (mean): 10.76
+    total intensity: [18922648, 3633723, 0]
+    total intensity %: [83.89, 16.11, 0.0]
+    color percent: 67.99%
+    color pixel: 712970
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/MAL2 H5 Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 15.29
+    total intensity: [16031514, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 62.53%
+    color pixel: 655645
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 233.0
+    intensity (mean): 4.61
+    total intensity: [0, 4838748, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 80.02%
+    color pixel: 839050
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 238.0
+    intensity (mean): 8.15
+    total intensity: [13451383, 3630871, 0]
+    total intensity %: [78.74, 21.26, 0.0]
+    color percent: 55.17%
+    color pixel: 578527
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/SNA H5 Large intestine-crypt.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 184.0
+    intensity (mean): 2.92
+    total intensity: [3063618, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 47.12%
+    color pixel: 494038
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 38.02
+    total intensity: [0, 39865575, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.91%
+    color pixel: 1047662
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 203.5
+    intensity (mean): 12.19
+    total intensity: [3060792, 22507676, 0]
+    total intensity %: [11.97, 88.03, 0.0]
+    color percent: 47.06%
+    color pixel: 493464
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/SNA H5 Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 3.09
+    total intensity: [3242486, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 23.29%
+    color pixel: 244219
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 14.18
+    total intensity: [0, 14872257, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 27.0%
+    color pixel: 283075
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 7.8
+    total intensity: [3185961, 13167512, 0]
+    total intensity %: [19.48, 80.52, 0.0]
+    color percent: 21.85%
+    color pixel: 229100
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/SNA H5 Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 236.0
+    intensity (mean): 8.01
+    total intensity: [8393876, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 84.79%
+    color pixel: 889111
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 29.98
+    total intensity: [0, 31431466, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.22%
+    color pixel: 1040386
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 203.5
+    intensity (mean): 15.86
+    total intensity: [8242005, 25027912, 0]
+    total intensity %: [24.77, 75.23, 0.0]
+    color percent: 84.04%
+    color pixel: 881186
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/SNA H5 Lung-bronciole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 12.12
+    total intensity: [12710338, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 95.18%
+    color pixel: 998010
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 31.83
+    total intensity: [0, 33371801, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.81%
+    color pixel: 1046595
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 250.0
+    intensity (mean): 20.87
+    total intensity: [12665732, 31110343, 0]
+    total intensity %: [28.93, 71.07, 0.0]
+    color percent: 94.99%
+    color pixel: 996080
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/SNA H5 Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 228.0
+    intensity (mean): 2.54
+    total intensity: [2664215, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 47.87%
+    color pixel: 501937
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 19.9
+    total intensity: [0, 20861475, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 97.54%
+    color pixel: 1022823
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 204.0
+    intensity (mean): 6.78
+    total intensity: [2542462, 11673312, 0]
+    total intensity %: [17.88, 82.12, 0.0]
+    color percent: 46.54%
+    color pixel: 487982
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/SNA H5 Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 240.0
+    intensity (mean): 5.88
+    total intensity: [6167540, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 61.27%
+    color pixel: 642454
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 19.47
+    total intensity: [0, 20420710, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 75.88%
+    color pixel: 795706
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 229.0
+    intensity (mean): 10.73
+    total intensity: [5918823, 16576658, 0]
+    total intensity %: [26.31, 73.69, 0.0]
+    color percent: 56.24%
+    color pixel: 589718
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL1 H5 Sia Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 213.0
+    intensity (mean): 7.88
+    total intensity: [8259763, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 91.93%
+    color pixel: 963964
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.47
+    total intensity: [0, 37192383, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 92.37%
+    color pixel: 968606
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 156.0
+    intensity (mean): 18.58
+    total intensity: [7974014, 30992272, 0]
+    total intensity %: [20.46, 79.54, 0.0]
+    color percent: 84.67%
+    color pixel: 887839
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL1 H5 Sia Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 112.0
+    intensity (mean): 1.33
+    total intensity: [1392143, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 12.49%
+    color pixel: 130940
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 9.3
+    total intensity: [0, 9753048, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 20.89%
+    color pixel: 219073
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 151.5
+    intensity (mean): 3.37
+    total intensity: [1311383, 5765021, 0]
+    total intensity %: [18.53, 81.47, 0.0]
+    color percent: 10.72%
+    color pixel: 112458
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL1 H5 Sia Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 111.0
+    intensity (mean): 3.07
+    total intensity: [3214533, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 46.7%
+    color pixel: 489696
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 31.6
+    total intensity: [0, 33131149, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 83.09%
+    color pixel: 871308
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 161.0
+    intensity (mean): 10.45
+    total intensity: [2958855, 18966842, 0]
+    total intensity %: [13.49, 86.51, 0.0]
+    color percent: 38.89%
+    color pixel: 407836
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL1 H5 Sia Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 89.0
+    intensity (mean): 7.87
+    total intensity: [8247200, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 90.03%
+    color pixel: 944067
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 44.86
+    total intensity: [0, 47041799, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 82.92%
+    color pixel: 869471
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 157.5
+    intensity (mean): 21.51
+    total intensity: [7080997, 38021905, 0]
+    total intensity %: [15.7, 84.3, 0.0]
+    color percent: 73.26%
+    color pixel: 768158
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL1 H5 Sia Small intestine-villus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 183.0
+    intensity (mean): 8.46
+    total intensity: [8872862, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.02%
+    color pixel: 964902
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 32.48
+    total intensity: [0, 34053769, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 86.31%
+    color pixel: 905014
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 152.0
+    intensity (mean): 18.8
+    total intensity: [8151030, 31283503, 0]
+    total intensity %: [20.67, 79.33, 0.0]
+    color percent: 82.13%
+    color pixel: 861184
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL1 H5 Sia Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 158.0
+    intensity (mean): 1.38
+    total intensity: [1442676, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 52.22%
+    color pixel: 547519
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 78.0
+    intensity (mean): 3.25
+    total intensity: [0, 3412674, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 73.14%
+    color pixel: 766882
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 103.5
+    intensity (mean): 1.66
+    total intensity: [1270879, 2207452, 0]
+    total intensity %: [36.54, 63.46, 0.0]
+    color percent: 44.17%
+    color pixel: 463205
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL2 H5 Sia Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 42.49
+    total intensity: [44552817, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 70.4%
+    color pixel: 738209
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 190.0
+    intensity (mean): 1.75
+    total intensity: [0, 1832331, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 54.29%
+    color pixel: 569324
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 160.5
+    intensity (mean): 13.01
+    total intensity: [25749336, 1539980, 0]
+    total intensity %: [94.36, 5.64, 0.0]
+    color percent: 43.74%
+    color pixel: 458666
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL2 H5 Sia Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 4.15
+    total intensity: [4349553, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 19.79%
+    color pixel: 207480
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 155.0
+    intensity (mean): 1.18
+    total intensity: [0, 1234688, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 21.01%
+    color pixel: 220336
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 149.0
+    intensity (mean): 2.25
+    total intensity: [3710227, 998422, 0]
+    total intensity %: [78.8, 21.2, 0.0]
+    color percent: 16.52%
+    color pixel: 173272
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL2 H5 Sia Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 12.31
+    total intensity: [12913095, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 69.35%
+    color pixel: 727231
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 80.0
+    intensity (mean): 5.19
+    total intensity: [0, 5444401, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 92.56%
+    color pixel: 970599
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 137.5
+    intensity (mean): 7.29
+    total intensity: [11422191, 3871378, 0]
+    total intensity %: [74.69, 25.31, 0.0]
+    color percent: 63.58%
+    color pixel: 666636
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL2 H5 Sia Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 30.89
+    total intensity: [32385771, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 66.42%
+    color pixel: 696425
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 191.0
+    intensity (mean): 2.52
+    total intensity: [0, 2643086, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 76.18%
+    color pixel: 798793
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 160.5
+    intensity (mean): 11.52
+    total intensity: [22302735, 1851498, 0]
+    total intensity %: [92.33, 7.67, 0.0]
+    color percent: 49.72%
+    color pixel: 521391
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL2 H5 Sia Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.29
+    total intensity: [28615784, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 81.6%
+    color pixel: 855623
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 150.0
+    intensity (mean): 2.19
+    total intensity: [0, 2296300, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 62.74%
+    color pixel: 657881
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 135.0
+    intensity (mean): 9.33
+    total intensity: [17479072, 2090351, 0]
+    total intensity %: [89.32, 10.68, 0.0]
+    color percent: 55.54%
+    color pixel: 582392
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/MAL2 H5 Sia Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 222.0
+    intensity (mean): 5.02
+    total intensity: [5264530, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 47.21%
+    color pixel: 495013
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 166.0
+    intensity (mean): 2.87
+    total intensity: [0, 3008981, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 79.18%
+    color pixel: 830290
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 158.5
+    intensity (mean): 2.46
+    total intensity: [3592935, 1558298, 0]
+    total intensity %: [69.75, 30.25, 0.0]
+    color percent: 37.93%
+    color pixel: 397713
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/SAN H5 Sia Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 121.0
+    intensity (mean): 5.73
+    total intensity: [6011791, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 79.04%
+    color pixel: 828792
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 14.16
+    total intensity: [0, 14846773, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 77.45%
+    color pixel: 812075
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 162.0
+    intensity (mean): 8.96
+    total intensity: [5450156, 13343829, 0]
+    total intensity %: [29.0, 71.0, 0.0]
+    color percent: 68.61%
+    color pixel: 719396
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/SNA H5 Sia Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 146.0
+    intensity (mean): 12.35
+    total intensity: [12951103, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 94.31%
+    color pixel: 988875
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 48.12
+    total intensity: [0, 50455797, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.99%
+    color pixel: 1048427
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 180.5
+    intensity (mean): 28.99
+    total intensity: [12950695, 47851532, 0]
+    total intensity %: [21.3, 78.7, 0.0]
+    color percent: 94.3%
+    color pixel: 988772
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/SNA H5 Sia Lung-alveoli.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 193.0
+    intensity (mean): 1.09
+    total intensity: [1147902, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 12.75%
+    color pixel: 133718
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 13.3
+    total intensity: [0, 13944067, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 22.23%
+    color pixel: 233056
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 154.0
+    intensity (mean): 4.29
+    total intensity: [1051130, 7955902, 0]
+    total intensity %: [11.67, 88.33, 0.0]
+    color percent: 10.35%
+    color pixel: 108568
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/SNA H5 Sia Lung-bronchiole.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 187.0
+    intensity (mean): 1.83
+    total intensity: [1921530, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 45.93%
+    color pixel: 481622
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 25.97
+    total intensity: [0, 27233787, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.93%
+    color pixel: 1047860
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 163.5
+    intensity (mean): 7.57
+    total intensity: [1917971, 13961325, 0]
+    total intensity %: [12.08, 87.92, 0.0]
+    color percent: 45.9%
+    color pixel: 481257
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/SNA H5 Sia Lung-bronchus.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 129.0
+    intensity (mean): 6.86
+    total intensity: [7194050, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.21%
+    color pixel: 966904
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 22.89
+    total intensity: [0, 24001874, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.87%
+    color pixel: 1047164
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 173.0
+    intensity (mean): 13.26
+    total intensity: [7183503, 20619886, 0]
+    total intensity %: [25.84, 74.16, 0.0]
+    color percent: 92.09%
+    color pixel: 965615
+    total pixel: 1048576
+
+./image_analysis/H5N9_virus_binding/Sialidase treatment/SNA H5 Sia Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 99.0
+    intensity (mean): 1.49
+    total intensity: [1565419, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 41.35%
+    color pixel: 433602
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.17
+    total intensity: [0, 25341017, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 96.64%
+    color pixel: 1013304
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 164.0
+    intensity (mean): 6.84
+    total intensity: [1562033, 12774968, 0]
+    total intensity %: [10.9, 89.1, 0.0]
+    color percent: 41.2%
+    color pixel: 432063
+    total pixel: 1048576
+
+./image_analysis/Coronavirus_receptors/2nd control-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 28.0
+    intensity (mean): 1.12
+    total intensity: [1274774, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 42.48%
+    color pixel: 484508
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 47.0
+    intensity (mean): 8.77
+    total intensity: [0, 10006032, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.04%
+    color pixel: 1129692
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 37.5
+    intensity (mean): 2.75
+    total intensity: [1273873, 5009588, 0]
+    total intensity %: [20.27, 79.73, 0.0]
+    color percent: 42.43%
+    color pixel: 484000
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/2nd control.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.66
+    total intensity: [751706, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 29.96%
+    color pixel: 341737
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 46.0
+    intensity (mean): 5.84
+    total intensity: [0, 6663285, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 73.42%
+    color pixel: 837498
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 28.5
+    intensity (mean): 1.64
+    total intensity: [750390, 2982351, 0]
+    total intensity %: [20.1, 79.9, 0.0]
+    color percent: 29.91%
+    color pixel: 341136
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/ACE2 Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 87.0
+    intensity (mean): 1.52
+    total intensity: [1730914, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.25%
+    color pixel: 402018
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 236.0
+    intensity (mean): 21.46
+    total intensity: [0, 24478970, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 85.9%
+    color pixel: 979795
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 149.5
+    intensity (mean): 6.05
+    total intensity: [1710753, 12082082, 0]
+    total intensity %: [12.4, 87.6, 0.0]
+    color percent: 34.32%
+    color pixel: 391416
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/ACE2 Lung-1.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 112.0
+    intensity (mean): 2.41
+    total intensity: [2753100, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 44.65%
+    color pixel: 509246
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 29.06
+    total intensity: [0, 33152112, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.98%
+    color pixel: 1140440
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 158.5
+    intensity (mean): 8.82
+    total intensity: [2753072, 17360229, 0]
+    total intensity %: [13.69, 86.31, 0.0]
+    color percent: 44.65%
+    color pixel: 509236
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/ACE2 Lung-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 102.0
+    intensity (mean): 1.95
+    total intensity: [2224349, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 43.65%
+    color pixel: 497896
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 36.91
+    total intensity: [0, 42105405, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 100.0%
+    color pixel: 1140604
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 160.5
+    intensity (mean): 9.92
+    total intensity: [2224334, 20396130, 0]
+    total intensity %: [9.83, 90.17, 0.0]
+    color percent: 43.65%
+    color pixel: 497887
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/ACE2 Lung-3.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 87.0
+    intensity (mean): 0.34
+    total intensity: [384973, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 8.81%
+    color pixel: 100454
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 5.49
+    total intensity: [0, 6262297, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 20.31%
+    color pixel: 231677
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 156.0
+    intensity (mean): 1.5
+    total intensity: [380005, 3039368, 0]
+    total intensity %: [11.11, 88.89, 0.0]
+    color percent: 8.52%
+    color pixel: 97192
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/ACE2 Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 106.0
+    intensity (mean): 2.95
+    total intensity: [3364996, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.71%
+    color pixel: 407323
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 26.0
+    total intensity: [0, 29654531, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 73.82%
+    color pixel: 841990
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 160.0
+    intensity (mean): 8.92
+    total intensity: [3324083, 17021194, 0]
+    total intensity %: [16.34, 83.66, 0.0]
+    color percent: 33.99%
+    color pixel: 387733
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/ACE2 Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 104.0
+    intensity (mean): 1.9
+    total intensity: [2167381, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 40.79%
+    color pixel: 465244
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 30.34
+    total intensity: [0, 34608407, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 93.65%
+    color pixel: 1068236
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 160.5
+    intensity (mean): 8.31
+    total intensity: [2166980, 16779543, 0]
+    total intensity %: [11.44, 88.56, 0.0]
+    color percent: 40.77%
+    color pixel: 465029
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/APN Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 51.0
+    intensity (mean): 1.72
+    total intensity: [1956203, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 40.86%
+    color pixel: 466048
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 235.0
+    intensity (mean): 15.99
+    total intensity: [0, 18242427, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 85.17%
+    color pixel: 971419
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 133.0
+    intensity (mean): 5.23
+    total intensity: [1940794, 9990074, 0]
+    total intensity %: [16.27, 83.73, 0.0]
+    color percent: 40.05%
+    color pixel: 456789
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/APN Lung-1.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 72.0
+    intensity (mean): 1.99
+    total intensity: [2266171, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 43.64%
+    color pixel: 497780
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 23.26
+    total intensity: [0, 26533325, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 93.81%
+    color pixel: 1070035
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 148.0
+    intensity (mean): 7.21
+    total intensity: [2230940, 14207884, 0]
+    total intensity %: [13.57, 86.43, 0.0]
+    color percent: 42.08%
+    color pixel: 479991
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/APN Lung-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 66.0
+    intensity (mean): 1.84
+    total intensity: [2101798, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 42.54%
+    color pixel: 485263
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 16.26
+    total intensity: [0, 18541771, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 82.28%
+    color pixel: 938500
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 147.0
+    intensity (mean): 5.38
+    total intensity: [1988414, 10290364, 0]
+    total intensity %: [16.19, 83.81, 0.0]
+    color percent: 37.46%
+    color pixel: 427225
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/APN Lung-3.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 58.0
+    intensity (mean): 0.5
+    total intensity: [566460, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 11.92%
+    color pixel: 135923
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 5.9
+    total intensity: [0, 6730672, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 25.28%
+    color pixel: 288405
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 147.0
+    intensity (mean): 1.81
+    total intensity: [543324, 3579376, 0]
+    total intensity %: [13.18, 86.82, 0.0]
+    color percent: 11.0%
+    color pixel: 125421
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/APN Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 47.0
+    intensity (mean): 1.27
+    total intensity: [1449657, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 41.18%
+    color pixel: 469692
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 206.0
+    intensity (mean): 16.06
+    total intensity: [0, 18323446, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 96.74%
+    color pixel: 1103452
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 123.0
+    intensity (mean): 4.62
+    total intensity: [1444073, 9084373, 0]
+    total intensity %: [13.72, 86.28, 0.0]
+    color percent: 40.89%
+    color pixel: 466424
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/APN Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 77.0
+    intensity (mean): 2.68
+    total intensity: [3054812, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 44.15%
+    color pixel: 503581
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 222.0
+    intensity (mean): 44.96
+    total intensity: [0, 51287474, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 97.61%
+    color pixel: 1113313
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 134.0
+    intensity (mean): 12.85
+    total intensity: [3054513, 26253240, 0]
+    total intensity %: [10.42, 89.58, 0.0]
+    color percent: 44.14%
+    color pixel: 503443
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/CEACAM Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 63.0
+    intensity (mean): 1.0
+    total intensity: [1142988, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 35.87%
+    color pixel: 409170
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 144.0
+    intensity (mean): 12.77
+    total intensity: [0, 14561286, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 84.34%
+    color pixel: 961948
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 100.0
+    intensity (mean): 3.62
+    total intensity: [1132175, 7118743, 0]
+    total intensity %: [13.72, 86.28, 0.0]
+    color percent: 35.3%
+    color pixel: 402592
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/CEACAM Lung-1.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 55.0
+    intensity (mean): 1.27
+    total intensity: [1444893, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 40.15%
+    color pixel: 457927
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 152.0
+    intensity (mean): 14.18
+    total intensity: [0, 16170781, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 91.04%
+    color pixel: 1038465
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 93.0
+    intensity (mean): 4.26
+    total intensity: [1434550, 8287266, 0]
+    total intensity %: [14.76, 85.24, 0.0]
+    color percent: 39.53%
+    color pixel: 450926
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/CEACAM Lung-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 35.0
+    intensity (mean): 1.54
+    total intensity: [1756584, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 44.3%
+    color pixel: 505284
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 207.0
+    intensity (mean): 30.13
+    total intensity: [0, 34371287, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 100.0%
+    color pixel: 1140574
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 114.5
+    intensity (mean): 8.13
+    total intensity: [1756565, 16783095, 0]
+    total intensity %: [9.47, 90.53, 0.0]
+    color percent: 44.3%
+    color pixel: 505267
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/CEACAM Lung-3.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 106.0
+    intensity (mean): 0.37
+    total intensity: [425954, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 9.28%
+    color pixel: 105879
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 231.0
+    intensity (mean): 6.61
+    total intensity: [0, 7537493, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 19.34%
+    color pixel: 220645
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 133.5
+    intensity (mean): 1.86
+    total intensity: [412110, 3833581, 0]
+    total intensity %: [9.71, 90.29, 0.0]
+    color percent: 8.52%
+    color pixel: 97164
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/CEACAM Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 50.0
+    intensity (mean): 0.86
+    total intensity: [986151, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 31.54%
+    color pixel: 359773
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 240.0
+    intensity (mean): 12.54
+    total intensity: [0, 14302696, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 72.6%
+    color pixel: 828133
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 128.0
+    intensity (mean): 3.39
+    total intensity: [979494, 6759611, 0]
+    total intensity %: [12.66, 87.34, 0.0]
+    color percent: 31.17%
+    color pixel: 355536
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/CEACAM Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 25.0
+    intensity (mean): 0.68
+    total intensity: [771206, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 36.87%
+    color pixel: 420601
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 110.0
+    intensity (mean): 15.63
+    total intensity: [0, 17828225, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 96.9%
+    color pixel: 1105268
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 59.5
+    intensity (mean): 3.45
+    total intensity: [770949, 7088725, 0]
+    total intensity %: [9.81, 90.19, 0.0]
+    color percent: 36.86%
+    color pixel: 420427
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/DPP4 Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 76.0
+    intensity (mean): 2.02
+    total intensity: [2300894, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 43.27%
+    color pixel: 493562
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 23.81
+    total intensity: [0, 27162963, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.36%
+    color pixel: 1133346
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 152.5
+    intensity (mean): 7.26
+    total intensity: [2296917, 14257114, 0]
+    total intensity %: [13.88, 86.12, 0.0]
+    color percent: 43.12%
+    color pixel: 491815
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/DPP4 Lung-1.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 110.0
+    intensity (mean): 5.2
+    total intensity: [5934507, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 44.64%
+    color pixel: 509166
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 48.41
+    total intensity: [0, 55220339, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 95.79%
+    color pixel: 1092602
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 170.5
+    intensity (mean): 16.38
+    total intensity: [5912369, 31444274, 0]
+    total intensity %: [15.83, 84.17, 0.0]
+    color percent: 43.78%
+    color pixel: 499366
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/DPP4 Lung-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 112.0
+    intensity (mean): 4.34
+    total intensity: [4953009, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 45.75%
+    color pixel: 521830
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 51.57
+    total intensity: [0, 58819198, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.65%
+    color pixel: 1136674
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 163.5
+    intensity (mean): 16.2
+    total intensity: [4948811, 32000954, 0]
+    total intensity %: [13.39, 86.61, 0.0]
+    color percent: 45.6%
+    color pixel: 520085
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/DPP4 Lung-3.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 112.0
+    intensity (mean): 1.41
+    total intensity: [1606020, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 15.09%
+    color pixel: 172116
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 12.53
+    total intensity: [0, 14289852, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 28.88%
+    color pixel: 329433
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 155.0
+    intensity (mean): 4.29
+    total intensity: [1558504, 8232494, 0]
+    total intensity %: [15.92, 84.08, 0.0]
+    color percent: 12.97%
+    color pixel: 147888
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/DPP4 Small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 107.0
+    intensity (mean): 2.01
+    total intensity: [2291164, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 31.66%
+    color pixel: 361069
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 23.24
+    total intensity: [0, 26509414, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 70.65%
+    color pixel: 805904
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 156.0
+    intensity (mean): 7.19
+    total intensity: [2285589, 14123568, 0]
+    total intensity %: [13.93, 86.07, 0.0]
+    color percent: 31.41%
+    color pixel: 358300
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/DPP4 Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 103.0
+    intensity (mean): 4.08
+    total intensity: [4650456, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 45.48%
+    color pixel: 518741
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 59.51
+    total intensity: [0, 67879759, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.44%
+    color pixel: 1134181
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 159.5
+    intensity (mean): 17.67
+    total intensity: [4648820, 35660250, 0]
+    total intensity %: [11.53, 88.47, 0.0]
+    color percent: 45.41%
+    color pixel: 518010
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/TMPRSS2 Large intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 100.0
+    intensity (mean): 1.71
+    total intensity: [1945822, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 29.22%
+    color pixel: 333276
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 15.97
+    total intensity: [0, 18220959, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 55.46%
+    color pixel: 632602
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 152.0
+    intensity (mean): 5.2
+    total intensity: [1792809, 10071311, 0]
+    total intensity %: [15.11, 84.89, 0.0]
+    color percent: 24.07%
+    color pixel: 274589
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/TMPRSS2 Lung-1.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 115.0
+    intensity (mean): 4.18
+    total intensity: [4772327, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 44.65%
+    color pixel: 509289
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 41.2
+    total intensity: [0, 46991712, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 94.58%
+    color pixel: 1078801
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 157.0
+    intensity (mean): 13.84
+    total intensity: [4751402, 26809705, 0]
+    total intensity %: [15.05, 84.95, 0.0]
+    color percent: 43.88%
+    color pixel: 500523
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/TMPRSS2 Lung-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 90.0
+    intensity (mean): 3.51
+    total intensity: [4006980, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 45.45%
+    color pixel: 518439
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 44.18
+    total intensity: [0, 50397304, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 97.26%
+    color pixel: 1109341
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 161.5
+    intensity (mean): 13.83
+    total intensity: [3993198, 27552491, 0]
+    total intensity %: [12.66, 87.34, 0.0]
+    color percent: 44.9%
+    color pixel: 512195
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/TMPRSS2 Lung-3.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 60.0
+    intensity (mean): 0.83
+    total intensity: [945284, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 14.23%
+    color pixel: 162356
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 8.66
+    total intensity: [0, 9883007, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 29.37%
+    color pixel: 335035
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 152.5
+    intensity (mean): 2.81
+    total intensity: [921389, 5484035, 0]
+    total intensity %: [14.38, 85.62, 0.0]
+    color percent: 13.06%
+    color pixel: 148950
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/TMPRSS2 small intestine.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 98.0
+    intensity (mean): 1.54
+    total intensity: [1761947, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 34.7%
+    color pixel: 395741
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 249.0
+    intensity (mean): 22.61
+    total intensity: [0, 25793581, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 79.3%
+    color pixel: 904549
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 144.5
+    intensity (mean): 6.42
+    total intensity: [1744982, 12900544, 0]
+    total intensity %: [11.91, 88.09, 0.0]
+    color percent: 34.02%
+    color pixel: 388046
+    total pixel: 1140624
+
+./image_analysis/Coronavirus_receptors/TMPRSS2 Trachea.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 71.0
+    intensity (mean): 2.16
+    total intensity: [2465350, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 44.48%
+    color pixel: 507344
+    total pixel: 1140624
+
+green stats:    intensity (min): 0.0
+    intensity (max): 213.0
+    intensity (mean): 38.96
+    total intensity: [0, 44440266, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 99.85%
+    color pixel: 1138944
+    total pixel: 1140624
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 142.0
+    intensity (mean): 10.8
+    total intensity: [2465029, 22182391, 0]
+    total intensity %: [10.0, 90.0, 0.0]
+    color percent: 44.46%
+    color pixel: 507164
+    total pixel: 1140624
+

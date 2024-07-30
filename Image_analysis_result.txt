@@ -1,0 +1,65 @@
+./image_analysis/Lectin 2nd control-2.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    intensity (median): 0.0
+    total intensity: [0, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    intensity (median): 0.0
+    total intensity: [0, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    intensity (median): 0.0
+    total intensity: [0, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+control: ./image_analysis/Lectin 2nd control-2.tif
+
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    intensity (median): 0.0
+    total intensity: [35639, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    intensity (median): 0.0
+    total intensity: [0, 128209, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    intensity (median): 0.0
+    total intensity: [22889, 35991, 0]
+    total intensity %: [-0.8999999999999986, 0.8999999999999986, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+control: ./image_analysis/Lectin 2nd control.tif
+
