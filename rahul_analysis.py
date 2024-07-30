@@ -125,15 +125,23 @@ if __name__ == "__main__":
     control_images = [img for img in image_files if "control" in img]
     image_files = [img for img in image_files if "control" not in img]
     # print(control_images)
+    
+    control_stats = []
+
+    for control_img in control_images:
+        control_base_64 = image_path_to_base64(control_img)
+        control = color_analysis(control_base_64, percentage=100)
+        control["image"] = control_img
+        control_stats.append(control)
 
     for image in tqdm(image_files):
         image_base64 = image_path_to_base64(image)
         analysis_object = color_analysis(image_base64, percentage=100)
 
-        for control_img in control_images:
+        for control in control_stats:
             write_to_result(image + "\n")
-            control_base_64 = image_path_to_base64(control_img)
-            control = color_analysis(control_base_64, percentage=100)
+            # control_base_64 = image_path_to_base64(control_img)
+            # control = color_analysis(control_base_64, percentage=100)
 
             write_stats_to_result(
                 "red", normalize(analysis_object["red"], control["red"])
@@ -147,4 +155,4 @@ if __name__ == "__main__":
             # write_stats_to_result("green", analysis_object["green"])
             # write_stats_to_result("yellow", analysis_object["yellow"])
 
-            write_to_result(f"control: {control_img}" + "\n" + "\n")
+            write_to_result(f"control: {control["image"]}" + "\n" + "\n")
