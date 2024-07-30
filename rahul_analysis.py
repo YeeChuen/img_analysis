@@ -140,4 +140,4 @@ if __name__ == "__main__":
             # write_stats_to_result("green", analysis_object["green"])
             # write_stats_to_result("yellow", analysis_object["yellow"])
 
-            write_to_result(f"control: {control_img}" + "\n" + "\n")
+    write_to_result(f"control: {control_img}" + "\n" + "\n")

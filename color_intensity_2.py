@@ -32,12 +32,12 @@ def color_analysis(image_base64, percentage=10):
     purple_stats = get_color_intensity_n_pixels(purple, 2)
     teal_stats = get_color_intensity_n_pixels(teal, 2)
 
-    red.save("red.jpg")
-    green.save("green.jpg")
-    blue.save("blue.jpg")
-    yellow.save("yellow.jpg")
-    purple.save("purple.jpg")
-    teal.save("teal.jpg")
+    # red.save("red.jpg")
+    # green.save("green.jpg")
+    # blue.save("blue.jpg")
+    # yellow.save("yellow.jpg")
+    # purple.save("purple.jpg")
+    # teal.save("teal.jpg")
 
     add_base64_to_list(red_stats, red)
     add_base64_to_list(green_stats, green)

@@ -63,3 +63,132 @@ yellow stats:    intensity (min): 0.0
 
 control: ./image_analysis/Lectin 2nd control.tif
 
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    intensity (median): 0.0
+    total intensity: [-3367210, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    intensity (median): 0.0
+    total intensity: [0, -1262592, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    intensity (median): 0.0
+    total intensity: [-3092533, -1638992, 0]
+    total intensity %: [-13.309999999999995, 13.309999999999995, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+control: ./image_analysis/H5N9_virus_binding/2nd control sialidase.tif
+
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    intensity (median): 0.0
+    total intensity: [-2141539, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    intensity (median): 0.0
+    total intensity: [0, 222266, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    intensity (median): 0.0
+    total intensity: [-906158, -208495, 0]
+    total intensity %: [-18.479999999999997, 18.479999999999997, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+control: ./image_analysis/H5N9_virus_binding/2nd control.tif
+
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    intensity (median): 0.0
+    total intensity: [-679506, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    intensity (median): 0.0
+    total intensity: [0, -9107904, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    intensity (median): 0.0
+    total intensity: [-883829, -4617246, 0]
+    total intensity %: [29.580000000000002, -29.580000000000005, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+control: ./image_analysis/Coronavirus_receptors/2nd control-2.tif
+
+red stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.57
+    intensity (median): 0.0
+    total intensity: [-156438, 0, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 27.27%
+    color pixel: 285927
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 17.0
+    intensity (mean): 0.86
+    intensity (median): 0.0
+    total intensity: [0, -5765157, 0]
+    total intensity %: [0.0, 0.0, 0.0]
+    color percent: 48.65%
+    color pixel: 510113
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 14.5
+    intensity (mean): 0.37
+    intensity (median): 0.0
+    total intensity: [-360346, -2590009, 0]
+    total intensity %: [29.75, -29.750000000000007, 0.0]
+    color percent: 17.51%
+    color pixel: 183655
+    total pixel: 1048576
+
+control: ./image_analysis/Coronavirus_receptors/2nd control.tif
+
+./image_analysis/Lectin 2nd control.tif
