@@ -29,7 +29,7 @@ if __name__ == "__main__":
             image_analysis[i][j] = image_analysis[i][j].replace("\n", "")
 
     for analysis in image_analysis:
-        print(analysis)
+        # print(analysis)
         if len(analysis) != 29:
             raise ValueError("incorrect number of analysis in", analysis, len(analysis))
 
