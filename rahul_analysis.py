@@ -68,15 +68,21 @@ def normalize(analysis, control_analysis):
     # rgbIntensity and rgbPercentIntensity
     # [0, 898128, 0]
     normalized["rgbIntensity"] = [
-        analysis["rgbIntensity"][0] - control_analysis["rgbIntensity"][0],
-        analysis["rgbIntensity"][1] - control_analysis["rgbIntensity"][1],
-        analysis["rgbIntensity"][2] - control_analysis["rgbIntensity"][2],
+        max(0, analysis["rgbIntensity"][0] - control_analysis["rgbIntensity"][0]),
+        max(0, analysis["rgbIntensity"][1] - control_analysis["rgbIntensity"][1]),
+        max(0, analysis["rgbIntensity"][2] - control_analysis["rgbIntensity"][2]),
     ]
-    normalized["rgbPercentIntensity"] = [
-        analysis["rgbPercentIntensity"][0] - control_analysis["rgbPercentIntensity"][0],
-        analysis["rgbPercentIntensity"][1] - control_analysis["rgbPercentIntensity"][1],
-        analysis["rgbPercentIntensity"][2] - control_analysis["rgbPercentIntensity"][2],
-    ]
+
+    intensity_sum = sum(normalized["rgbIntensity"])
+    if intensity_sum == 0:
+        normalized["rgbPercentIntensity"] = [0,0,0]
+    else:
+        percentage_intensity = [
+            round(normalized["rgbIntensity"][0] / intensity_sum * 100, 2),
+            round(normalized["rgbIntensity"][1] / intensity_sum * 100, 2),
+            round(normalized["rgbIntensity"][2] / intensity_sum * 100, 2),
+        ]
+        normalized["rgbPercentIntensity"] = percentage_intensity
     # normalized["rgbPercentIntensity"] = [0, 0, 0]
     # print(control_analysis["rgbIntensity"])
     # control_analysis["rgbPercentIntensity"]
@@ -117,14 +123,15 @@ if __name__ == "__main__":
         f.write("")
 
     control_images = [img for img in image_files if "control" in img]
+    image_files = [img for img in image_files if "control" not in img]
     # print(control_images)
 
     for image in tqdm(image_files):
         image_base64 = image_path_to_base64(image)
-        write_to_result(image + "\n")
         analysis_object = color_analysis(image_base64, percentage=100)
 
         for control_img in control_images:
+            write_to_result(image + "\n")
             control_base_64 = image_path_to_base64(control_img)
             control = color_analysis(control_base_64, percentage=100)
 
@@ -140,4 +147,4 @@ if __name__ == "__main__":
             # write_stats_to_result("green", analysis_object["green"])
             # write_stats_to_result("yellow", analysis_object["yellow"])
 
-    write_to_result(f"control: {control_img}" + "\n" + "\n")
+            write_to_result(f"control: {control_img}" + "\n" + "\n")

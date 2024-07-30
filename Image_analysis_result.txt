@@ -1,194 +1,330 @@
-./image_analysis/Lectin 2nd control-2.tif
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
 red stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.57
-    intensity (median): 0.0
-    total intensity: [0, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 27.27%
-    color pixel: 285927
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    intensity (median): 43.0
+    total intensity: [53081713, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
     total pixel: 1048576
 
 green stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.86
-    intensity (median): 0.0
-    total intensity: [0, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 48.65%
-    color pixel: 510113
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    intensity (median): 4.0
+    total intensity: [0, 17868287, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
     total pixel: 1048576
 
 yellow stats:    intensity (min): 0.0
-    intensity (max): 14.5
-    intensity (mean): 0.37
-    intensity (median): 0.0
-    total intensity: [0, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 17.51%
-    color pixel: 183655
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    intensity (median): 18.0
+    total intensity: [44464290, 18282384, 0]
+    total intensity %: [70.86, 29.14, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
     total pixel: 1048576
 
 control: ./image_analysis/Lectin 2nd control-2.tif
 
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
 red stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.57
-    intensity (median): 0.0
-    total intensity: [35639, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 27.27%
-    color pixel: 285927
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    intensity (median): 43.0
+    total intensity: [53117352, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
     total pixel: 1048576
 
 green stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.86
-    intensity (median): 0.0
-    total intensity: [0, 128209, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 48.65%
-    color pixel: 510113
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    intensity (median): 4.0
+    total intensity: [0, 17996496, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
     total pixel: 1048576
 
 yellow stats:    intensity (min): 0.0
-    intensity (max): 14.5
-    intensity (mean): 0.37
-    intensity (median): 0.0
-    total intensity: [22889, 35991, 0]
-    total intensity %: [-0.8999999999999986, 0.8999999999999986, 0.0]
-    color percent: 17.51%
-    color pixel: 183655
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    intensity (median): 18.0
+    total intensity: [44487179, 18318375, 0]
+    total intensity %: [70.83, 29.17, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
     total pixel: 1048576
 
 control: ./image_analysis/Lectin 2nd control.tif
 
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
 red stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.57
-    intensity (median): 0.0
-    total intensity: [-3367210, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 27.27%
-    color pixel: 285927
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    intensity (median): 43.0
+    total intensity: [49714503, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
     total pixel: 1048576
 
 green stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.86
-    intensity (median): 0.0
-    total intensity: [0, -1262592, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 48.65%
-    color pixel: 510113
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    intensity (median): 4.0
+    total intensity: [0, 16605695, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
     total pixel: 1048576
 
 yellow stats:    intensity (min): 0.0
-    intensity (max): 14.5
-    intensity (mean): 0.37
-    intensity (median): 0.0
-    total intensity: [-3092533, -1638992, 0]
-    total intensity %: [-13.309999999999995, 13.309999999999995, 0.0]
-    color percent: 17.51%
-    color pixel: 183655
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    intensity (median): 18.0
+    total intensity: [41371757, 16643392, 0]
+    total intensity %: [71.31, 28.69, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
     total pixel: 1048576
 
 control: ./image_analysis/H5N9_virus_binding/2nd control sialidase.tif
 
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
 red stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.57
-    intensity (median): 0.0
-    total intensity: [-2141539, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 27.27%
-    color pixel: 285927
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    intensity (median): 43.0
+    total intensity: [50940174, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
     total pixel: 1048576
 
 green stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.86
-    intensity (median): 0.0
-    total intensity: [0, 222266, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 48.65%
-    color pixel: 510113
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    intensity (median): 4.0
+    total intensity: [0, 18090553, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
     total pixel: 1048576
 
 yellow stats:    intensity (min): 0.0
-    intensity (max): 14.5
-    intensity (mean): 0.37
-    intensity (median): 0.0
-    total intensity: [-906158, -208495, 0]
-    total intensity %: [-18.479999999999997, 18.479999999999997, 0.0]
-    color percent: 17.51%
-    color pixel: 183655
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    intensity (median): 18.0
+    total intensity: [43558132, 18073889, 0]
+    total intensity %: [70.67, 29.33, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
     total pixel: 1048576
 
 control: ./image_analysis/H5N9_virus_binding/2nd control.tif
 
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
 red stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.57
-    intensity (median): 0.0
-    total intensity: [-679506, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 27.27%
-    color pixel: 285927
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    intensity (median): 43.0
+    total intensity: [52402207, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
     total pixel: 1048576
 
 green stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.86
-    intensity (median): 0.0
-    total intensity: [0, -9107904, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 48.65%
-    color pixel: 510113
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    intensity (median): 4.0
+    total intensity: [0, 8760383, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
     total pixel: 1048576
 
 yellow stats:    intensity (min): 0.0
-    intensity (max): 14.5
-    intensity (mean): 0.37
-    intensity (median): 0.0
-    total intensity: [-883829, -4617246, 0]
-    total intensity %: [29.580000000000002, -29.580000000000005, 0.0]
-    color percent: 17.51%
-    color pixel: 183655
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    intensity (median): 18.0
+    total intensity: [43580461, 13665138, 0]
+    total intensity %: [76.13, 23.87, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
     total pixel: 1048576
 
 control: ./image_analysis/Coronavirus_receptors/2nd control-2.tif
 
+./image_analysis/MAL1 MAL2 Large intestine-crypt.tif
 red stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.57
-    intensity (median): 0.0
-    total intensity: [-156438, 0, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 27.27%
-    color pixel: 285927
+    intensity (max): 255.0
+    intensity (mean): 51.19
+    intensity (median): 43.0
+    total intensity: [52925275, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 92.19%
+    color pixel: 966638
     total pixel: 1048576
 
 green stats:    intensity (min): 0.0
-    intensity (max): 17.0
-    intensity (mean): 0.86
-    intensity (median): 0.0
-    total intensity: [0, -5765157, 0]
-    total intensity %: [0.0, 0.0, 0.0]
-    color percent: 48.65%
-    color pixel: 510113
+    intensity (max): 255.0
+    intensity (mean): 17.9
+    intensity (median): 4.0
+    total intensity: [0, 12103130, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 69.11%
+    color pixel: 724721
     total pixel: 1048576
 
 yellow stats:    intensity (min): 0.0
-    intensity (max): 14.5
-    intensity (mean): 0.37
-    intensity (median): 0.0
-    total intensity: [-360346, -2590009, 0]
-    total intensity %: [29.75, -29.750000000000007, 0.0]
-    color percent: 17.51%
-    color pixel: 183655
+    intensity (max): 255.0
+    intensity (mean): 30.29
+    intensity (median): 18.0
+    total intensity: [44103944, 15692375, 0]
+    total intensity %: [73.76, 26.24, 0.0]
+    color percent: 65.79%
+    color pixel: 689909
     total pixel: 1048576
 
 control: ./image_analysis/Coronavirus_receptors/2nd control.tif
 
-./image_analysis/Lectin 2nd control.tif
+./image_analysis/MAL1 MAL2 Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.71
+    intensity (median): 19.0
+    total intensity: [36853194, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 75.37%
+    color pixel: 790301
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.7
+    intensity (median): 2.0
+    total intensity: [0, 25002187, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 59.81%
+    color pixel: 627164
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.23
+    intensity (median): 3.0
+    total intensity: [31176549, 25149618, 0]
+    total intensity %: [55.35, 44.65, 0.0]
+    color percent: 53.14%
+    color pixel: 557241
+    total pixel: 1048576
+
+control: ./image_analysis/Lectin 2nd control-2.tif
+
+./image_analysis/MAL1 MAL2 Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.71
+    intensity (median): 19.0
+    total intensity: [36888833, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 75.37%
+    color pixel: 790301
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.7
+    intensity (median): 2.0
+    total intensity: [0, 25130396, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 59.81%
+    color pixel: 627164
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.23
+    intensity (median): 3.0
+    total intensity: [31199438, 25185609, 0]
+    total intensity %: [55.33, 44.67, 0.0]
+    color percent: 53.14%
+    color pixel: 557241
+    total pixel: 1048576
+
+control: ./image_analysis/Lectin 2nd control.tif
+
+./image_analysis/MAL1 MAL2 Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.71
+    intensity (median): 19.0
+    total intensity: [33485984, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 75.37%
+    color pixel: 790301
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.7
+    intensity (median): 2.0
+    total intensity: [0, 23739595, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 59.81%
+    color pixel: 627164
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.23
+    intensity (median): 3.0
+    total intensity: [28084016, 23510626, 0]
+    total intensity %: [54.43, 45.57, 0.0]
+    color percent: 53.14%
+    color pixel: 557241
+    total pixel: 1048576
+
+control: ./image_analysis/H5N9_virus_binding/2nd control sialidase.tif
+
+./image_analysis/MAL1 MAL2 Large intestine-top.tif
+red stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 35.71
+    intensity (median): 19.0
+    total intensity: [34711655, 0, 0]
+    total intensity %: [100.0, 0.0, 0.0]
+    color percent: 75.37%
+    color pixel: 790301
+    total pixel: 1048576
+
+green stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 24.7
+    intensity (median): 2.0
+    total intensity: [0, 25224453, 0]
+    total intensity %: [0.0, 100.0, 0.0]
+    color percent: 59.81%
+    color pixel: 627164
+    total pixel: 1048576
+
+yellow stats:    intensity (min): 0.0
+    intensity (max): 255.0
+    intensity (mean): 27.23
+    intensity (median): 3.0
+    total intensity: [30270391, 24941123, 0]
+    total intensity %: [54.83, 45.17, 0.0]
+    color percent: 53.14%
+    color pixel: 557241
+    total pixel: 1048576
+
+control: ./image_analysis/H5N9_virus_binding/2nd control.tif
+
